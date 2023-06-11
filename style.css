@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+
+.nav-container {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link-item {
+  color: aqua;
+  font-size: xxx-large;
+  cursor: pointer;
+  padding: 5px;
+  font-family: papyrus;
+}
+
+.info-container {
+  height: 200px;
+  background-color: rgb(229, 130, 229);
+  font-size: xx-large;
+
+  color: white;
+  padding: 10px;
+}
